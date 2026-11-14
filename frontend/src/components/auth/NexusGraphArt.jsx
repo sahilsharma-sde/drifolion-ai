@@ -24,7 +24,7 @@ export default function NexusGraphArt() {
       viewBox="0 0 400 380"
       className="w-full h-full"
       role="img"
-      aria-label="Diagram of Nexus AI's multi-agent routing graph"
+      aria-label="Diagram of Drifolion AI's multi-agent routing graph"
     >
       <defs>
         <linearGradient id="edgeGrad" x1="0" y1="0" x2="0" y2="1">

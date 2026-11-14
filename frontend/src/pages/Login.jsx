@@ -77,7 +77,7 @@ export default function Login() {
   return (
     <AuthLayout
       eyebrow="Welcome back"
-      title="Log in to Nexus AI"
+      title="Log in to Drifolion AI"
       subtitle="Pick up your conversations and documents right where you left them."
     >
       <div className="space-y-4">

@@ -45,7 +45,7 @@ export default function MainLayout({ sidebar, children }) {
         </button>
         <span className="mobile-topbar-brand">
           <LogoMark size={22} />
-          <span className="font-display">Nexus AI</span>
+          <span className="font-display">Drifolion AI</span>
         </span>
       </header>
 

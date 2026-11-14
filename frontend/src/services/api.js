@@ -83,7 +83,7 @@ export const streamChat = async (
     console.error("Streaming error:", error);
 
     // Errors with a code are explained by the UI notice instead.
-    if (!error.code) onChunk?.("\n\n⚠️ Error communicating with Nexus AI.");
+    if (!error.code) onChunk?.("\n\n⚠️ Error communicating with Drifolion AI.");
 
     onComplete?.();
 

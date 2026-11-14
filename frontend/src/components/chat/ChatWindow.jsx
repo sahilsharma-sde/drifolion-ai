@@ -27,7 +27,7 @@ export default function ChatWindow({ messages, streamingMessageIndex, onPromptSe
           </div>
           <h2>What are you working on?</h2>
           <p>
-            Ask a question, paste some code, or upload a document — Nexus
+            Ask a question, paste some code, or upload a document — Drifolion
             routes it to whichever specialist agent fits best.
           </p>
           <div className="empty-prompt-chips">
